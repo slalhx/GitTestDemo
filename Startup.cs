@@ -13,7 +13,7 @@ namespace GitTestDemo
 {
     public class Startup
     {sssssssssssssssssssssssssssfffffffffffffffffffffff
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration)ǮǮǮǮǮǮǮǮǮǮǮǮǮǮǮǮǮǮǮ 
         {
             Configuration = configuration;
         }
